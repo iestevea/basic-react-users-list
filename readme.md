@@ -1,8 +1,8 @@
 # Basic example of users list 
 
-## Resumen
+## Summary
 
-This is a basic example made with react composed with three routes: login, users list and user detail.
+This is a basic example made with react and styled with material-ui. It's composed of three routes: login, users list and user detail.
 
 ## Install
 
